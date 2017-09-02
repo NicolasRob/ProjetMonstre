@@ -1,5 +1,5 @@
 # ProjetMonstre
 
-Application en C# qui permet de tuer des monstres et des boss. 
+Application en C# qui permet de tuer des monstres et des boss de fin. 
 Test de modification sur le repo local
 Modification provenant de nouvelle branche
