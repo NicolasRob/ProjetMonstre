@@ -1,0 +1,6 @@
+U:\JeuMonstre\JeuMonster\JeuMonster\bin\Debug\JeuMonster.exe.config
+U:\JeuMonstre\JeuMonster\JeuMonster\bin\Debug\JeuMonster.exe
+U:\JeuMonstre\JeuMonster\JeuMonster\bin\Debug\JeuMonster.pdb
+U:\JeuMonstre\JeuMonster\JeuMonster\obj\Debug\JeuMonster.csprojResolveAssemblyReference.cache
+U:\JeuMonstre\JeuMonster\JeuMonster\obj\Debug\JeuMonster.exe
+U:\JeuMonstre\JeuMonster\JeuMonster\obj\Debug\JeuMonster.pdb
