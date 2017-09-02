@@ -38,11 +38,7 @@ namespace JeuMonster
 
         public override void SubitDegats(int degats)
         {
-            if (this.GetType() == typeof(Joueur))
-                if (!BouclierFonctionne())
-                    PtsDeVies -= degats;
-                else
-                    PtsDeVies -= degats;
+            PtsDeVies -= degats;
         }
 
         private bool BouclierFonctionne()
